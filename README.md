@@ -1,4 +1,4 @@
-# fake_or_nek
+# Fake or Nek
 
 A new application
 
